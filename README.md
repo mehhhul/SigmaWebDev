@@ -15,10 +15,6 @@ Each project folder has its own `index.html`, `style.css` (and `script.js` where
 ## Goal
 Build a strong foundation in web fundamentals before moving to frameworks — tracking progress project by project.
 
-## Progress
-- [x] Card component (layout, positioning, hover effects)
-- [ ] More coming as the course progresses...
-
 ## Author
 Mehul — B.Tech CSE student, learning web dev alongside coursework.# SigmaWebDev
 
